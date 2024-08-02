@@ -1,0 +1,6 @@
+n = input('qual seu nome: ')
+print(type(n))
+print(n.isnumeric())
+print(n.isidentifier())
+print(n.isnumeric())
+print(n.isdigit())
